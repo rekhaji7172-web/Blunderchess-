@@ -1,0 +1,6 @@
+{
+  "name": "BlunderChess",
+  "description": "The official website for BlunderChess, featuring cinematic chess edits, video shorts, channel stats, and FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
